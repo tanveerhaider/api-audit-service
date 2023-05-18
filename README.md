@@ -3,6 +3,7 @@ A Filter in the Spring Boot application is a solution used to intercept the HTTP
 Filters can be used for different well-known use cases like Logging, Authentication and Security, Transaction and request manipulation.
 ![Spring-filter.png](Spring-filter.png)
 
-#api-audit-service is a demo example of illustrate logging request to a persistence data store (MongoDB)
+# api-audit-service 
+This project is a demo example to illustrate logging request to a persistence data store (MongoDB)
 to audit the incoming request . 
 
